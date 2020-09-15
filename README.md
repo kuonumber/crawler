@@ -15,7 +15,7 @@
 [Python Semaphore does not seem to work in Google Colab](https://stackoverflow.com/questions/56720478/python-semaphore-does-not-seem-to-work-in-google-colab)
 [Raymond Hettinger, Keynote on Concurrency, PyBay 2017](https://www.youtube.com/watch?v=9zinZmE3Ogk&feature=youtu.be)  
 [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0&feature=youtu.be)  
-
+[What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)  
 
 # proxy
 [4 款爬虫抓包神器](https://testerhome.com/topics/22289)  
