@@ -9,9 +9,10 @@
 [google/robotstxt](https://github.com/google)  
 [Python 爬蟲不求人之 Splash HTTP API 篇](https://medium.com/%E7%A8%8B%E5%BC%8F%E8%A3%A1%E6%9C%89%E8%9F%B2/python-%E7%88%AC%E8%9F%B2%E4%B8%8D%E6%B1%82%E4%BA%BA%E4%B9%8B-splash-http-api-6a98104f79a8)  
 
-# mutil-crawler
+# mutil-crawler  
 [python-threading-multithreaded-programming](https://blog.gtwang.org/programming/python-threading-multithreaded-programming-tutorial/)  
 [Python — 多線程](https://medium.com/jeasee%E9%9A%A8%E7%AD%86/python-%E5%A4%9A%E7%B7%9A%E7%A8%8B-eb36272e604b)  
+[Python Semaphore does not seem to work in Google Colab](https://stackoverflow.com/questions/56720478/python-semaphore-does-not-seem-to-work-in-google-colab)
 
 
 # proxy
