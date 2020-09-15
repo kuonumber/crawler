@@ -11,6 +11,8 @@
 
 # mutil-crawler
 [python-threading-multithreaded-programming](https://blog.gtwang.org/programming/python-threading-multithreaded-programming-tutorial/)  
+[Python — 多線程](https://medium.com/jeasee%E9%9A%A8%E7%AD%86/python-%E5%A4%9A%E7%B7%9A%E7%A8%8B-eb36272e604b)  
+
 
 # proxy
 [4 款爬虫抓包神器](https://testerhome.com/topics/22289)  
