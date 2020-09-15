@@ -13,6 +13,8 @@
 [python-threading-multithreaded-programming](https://blog.gtwang.org/programming/python-threading-multithreaded-programming-tutorial/)  
 [Python — 多線程](https://medium.com/jeasee%E9%9A%A8%E7%AD%86/python-%E5%A4%9A%E7%B7%9A%E7%A8%8B-eb36272e604b)  
 [Python Semaphore does not seem to work in Google Colab](https://stackoverflow.com/questions/56720478/python-semaphore-does-not-seem-to-work-in-google-colab)
+[Raymond Hettinger, Keynote on Concurrency, PyBay 2017](https://www.youtube.com/watch?v=9zinZmE3Ogk&feature=youtu.be)  
+[Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0&feature=youtu.be)  
 
 
 # proxy
