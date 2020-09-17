@@ -1,7 +1,7 @@
 # basic knowledge
 ## html  
 [URL wki 講解](https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)  
-[W3C 超連結屬性](https://www.w3schools.com/tags/att_a_href.asp)
+[W3C 超連結屬性](https://www.w3schools.com/tags/att_a_href.asp)  
 [關於 robots.txt](https://support.google.com/webmasters/answer/6062608?hl=zh-Hant)  
 ## selector  
 [Python Scrapy Tutorial-9-Extracting data w/CSS Selectors](https://www.youtube.com/watch?v=FQv-whbCfKs)  
