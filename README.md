@@ -6,6 +6,7 @@
 ## selector  
 [Python Scrapy Tutorial-9-Extracting data w/CSS Selectors](https://www.youtube.com/watch?v=FQv-whbCfKs)  
 [Python Scrapy Tutorial-10-Extracting data w/XPATH](https://www.youtube.com/watch?v=INm8yR4aYjk)  
+[輕鬆學習 Python：在學習網站爬蟲之前](https://medium.com/datainpoint/python-essentials-before-web-scraping-822b0b351bb3)
 
 # tools for crawler
 [chrome dev tool](https://developers.google.com/web/tools/chrome-devtools?hl=zh-tw)  
