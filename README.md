@@ -3,11 +3,19 @@
 [URL wki 講解](https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)  
 [W3C 超連結屬性](https://www.w3schools.com/tags/att_a_href.asp)  
 [關於 robots.txt](https://support.google.com/webmasters/answer/6062608?hl=zh-Hant)  
+
 ## selector  
 [quotes_toscrape- 練習網頁](http://quotes.toscrape.com/)  
 [Python Scrapy Tutorial-9-Extracting data w/CSS Selectors](https://www.youtube.com/watch?v=FQv-whbCfKs)  
 [Python Scrapy Tutorial-10-Extracting data w/XPATH](https://www.youtube.com/watch?v=INm8yR4aYjk)  
 [輕鬆學習 Python：在學習網站爬蟲之前](https://medium.com/datainpoint/python-essentials-before-web-scraping-822b0b351bb3)  
+
+## re
+[regexone](https://regexone.com/)  
+[pythex](https://pythex.org/)  
+[常用 Regular Expression 範例](https://note.artchiu.org/2009/09/24/%E5%B8%B8%E7%94%A8-regular-expression-%E7%AF%84%E4%BE%8B/)  
+[regex101-解釋過程](https://regex101.com/r/dW4nA5/1)  
+
 
 # tools for crawler
 [chrome dev tool](https://developers.google.com/web/tools/chrome-devtools?hl=zh-tw)  
