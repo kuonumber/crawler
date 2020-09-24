@@ -43,3 +43,9 @@
 [全國門牌地址定位服務](https://tgos.nat.gov.tw/TGOS/Web/Address/TGOS_Address.aspx)  
 [水利地理資訊平台](https://gic.wra.gov.tw/Gis/GicMap)  
 [國土規劃地理資訊圖台](http://nsp.tcd.gov.tw/ngis/)  
+
+# 斷詞工具  
+[CkipTagger](https://github.com/ckiplab/ckiptagger)  
+[jieba-zh_TW](https://github.com/ldkrsi/jieba-zh_TW)
+
+
