@@ -49,5 +49,5 @@
 [jieba-zh_TW](https://github.com/ldkrsi/jieba-zh_TW)
 
 # user-agent
-[fake-a-browser-visit](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)。
-[user_agent_string](http://www.useragentstring.com/pages/useragentstring.php)
+[fake-a-browser-visit](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)    
+[user_agent_string](http://www.useragentstring.com/pages/useragentstring.php)    
